@@ -1,0 +1,159 @@
+/* Estilos Gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  header {
+    background-color: #ffcc00;
+    text-align: center;
+    padding: 150px 20px;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff;
+  }
+  
+  p {
+    font-size: 1.2em;
+  }
+  
+  .app {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .download-btn {
+    background-color: #ff8c00;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 20px;
+    margin: 5px;
+  }
+  
+  .download-btn.android {
+    background-color: #ff9d00;
+    box-shadow: #c3c3c3;
+    box-shadow: #333;
+  }
+
+  .download-btn.android:hover{
+    background-color: #fff;
+    color: #ff8c00;
+    transform: scale(1.10);
+  }
+    
+  section {
+    padding: 40px 20px;
+    background-color: #fff;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #8c7000;
+    margin-bottom: 20px;
+  }
+  
+  .feature, .testimonial, .partners-logos {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin: 10px 0;
+  }
+  
+  footer {
+    background-color: #d2bd00;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  .socials a {
+    background-color: #ffcc00;
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* Estilização básica para o formulário de contato */
+#contact {
+  background-image: url('/Assets/background\ image.jpg');
+  background-size: cover; /* Ajusta a imagem para cobrir toda a área da seção */
+  background-position: center; /* Centraliza a imagem */
+  background-repeat: no-repeat; /* Impede a repetição da imagem */
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#contact h2 {
+  text-align: center;
+  color: #333;
+}
+
+#contact form {
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+}
+
+#contact label {
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+#contact input, #contact textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 16px;
+}
+
+#contact textarea {
+  resize: vertical;
+  min-height: 100px;
+}
+
+#contact button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#contact button:hover {
+  background-color: #45a049;
+}
+
+.termos{
+background-color: #ffcc00;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.termos-lista{
+  margin: 30px;
+}
