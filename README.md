@@ -5,7 +5,7 @@ Este repositório contém o site informativo sobre o aplicativo Setembro Amarelo
 O app Setembro Amarelo foi criado para oferecer suporte, informações e ferramentas para conscientização sobre a prevenção ao suicídio. Com o aplicativo, os usuários podem obter ajuda imediata e aprender como apoiar pessoas vulneráveis.
 
 Baixar para Android
-[(https://drive.google.com/drive/folders/1GUZMdNpyZ5Eafob_ZIxYAPhE6jo9HtMu
+(https://setembroamarelo.gfctech.com.br/)
 
 **🔧 Funcionalidades do App**
 Acionar o CVV
